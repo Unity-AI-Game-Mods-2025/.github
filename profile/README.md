@@ -69,7 +69,7 @@
 
 
 **Procedural Content Panel**  
-![Procedural Content Panel](![image](https://github.com/user-attachments/assets/58695c54-2b2d-4b5d-abb9-41ca385e77b0)
+![Procedural Content Panel](https://github.com/user-attachments/assets/58695c54-2b2d-4b5d-abb9-41ca385e77b0)
 )  
 *Interface for generating AI-driven game levels and assets.*
 
